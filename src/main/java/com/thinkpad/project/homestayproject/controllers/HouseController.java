@@ -1,4 +1,4 @@
-package com.thinkpad.project.homestayproject.controller;
+package com.thinkpad.project.homestayproject.controllers;
 
 import org.springframework.stereotype.Controller;
 
